@@ -1,0 +1,2 @@
+OpenAI_Key= [your_OpenAI key_here]
+(optional)ElevenLabs_Key= [your_ElevenLabs key_here]
